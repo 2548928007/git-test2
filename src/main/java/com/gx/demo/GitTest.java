@@ -10,6 +10,7 @@ public class GitTest {
         System.out.println("hello Git2");
         System.out.println("master冲突提交");
         System.out.println("dev冲突提交");
-        System.out.println("即将推送的新代码");
+        System.out.println("即将push的新代码");
+        System,out.println("即将被pull的新代码");
     }
 }
